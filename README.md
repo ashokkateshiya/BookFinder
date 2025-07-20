@@ -6,16 +6,16 @@ A Book Finder Flutter app using **Clean Architecture**, **BLoC**, **SQLite**, an
 
 ## 🚀 Features
 
-- ✅ Search books via public API
-- ✅ Animated book cover on details screen (rotation)
-- ✅ Save favorite books to local storage (SQLite)
-- ✅ View saved books offline
-- ✅ Clean Architecture (Presentation, Domain, Data layers)
-- ✅ BLoC for state management
-- ✅ GetIt for dependency injection
-- ✅ Pull-to-refresh, pagination support
-- ✅ Multi-language support (English, Hindi)
-- ✅ Unit tests with bloc\_test and mockito
+- Search books via public API
+- Animated book cover on details screen (rotation)
+- Save favorite books to local storage (SQLite)
+- View saved books offline
+- Clean Architecture (Presentation, Domain, Data layers)
+- BLoC for state management
+- GetIt for dependency injection
+- Pull-to-refresh, pagination support
+- Multi-language support (English right now but we can add other languages)
+- Unit tests with bloc\_test and mockito
 
 ---
 
@@ -71,9 +71,9 @@ flutter test
 
 Includes unit tests for:
 
-- ✅ UseCases
-- ✅ BLoC
-- ✅ Mocked Repositories
+-  UseCases
+-  BLoC
+-  Mocked Repositories
 
 ---
 
@@ -81,17 +81,9 @@ Includes unit tests for:
 
 Currently supports:
 
-- ✅ English 🇺🇸 (`intl_en.arb`)
+-  English 🇺🇸 (`app_en.arb`)
 
 To add more languages, edit or add files under `lib/l10n/`.
-
----
-
-## 📸 Screenshots
-
-| Search Books | Book Details | Saved Books |
-| ------------ | ------------ | ----------- |
-|              |              |             |
 
 ---
 
