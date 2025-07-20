@@ -1,0 +1,8 @@
+{
+  "appTitle": "Book Finder",
+  "searchHint": "Search books...",
+  "noBooksFound": "No books found.",
+  "bookSaved": "Book saved successfully!",
+  "errorMessage": "Something went wrong!",
+  "savedBooks": "Saved Books"
+}
